@@ -8,6 +8,13 @@
 
 Simple Rest API with Lumen microframework 
 
+Features Enabled : 
+ - Auth 
+ - Login 
+ - Register
+ - Api Token use 
+ - Crud on mysql table with auth 
+ 
 ## Official Documentation
 
 Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
